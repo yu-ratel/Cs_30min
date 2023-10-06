@@ -18,9 +18,10 @@
   - Json의 tpye
 
     - Js ob와 비슷하지만 undefined, 메서드는 포함되지않음
+
       > number, string, boolean, array, object, null ⭕️
 
-    > undefined, method ❌
+      > undefined, method ❌
 
 - Json의 직렬화(serialization), 역직렬화(Deserialization)
 
