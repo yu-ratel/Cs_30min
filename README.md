@@ -5,3 +5,5 @@
 👀 [XML](XML.md)
 
 👀 [API](API.md)
+
+👀 [Cloud](Cloud.md)
