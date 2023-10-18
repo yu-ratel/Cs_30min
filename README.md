@@ -11,3 +11,5 @@
 👀 [CICD](ClCD.md)
 
 👀 [Class_Object_Instance](Class_Object_Instance.md)
+
+👀 [Static](Static.md)
